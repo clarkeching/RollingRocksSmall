@@ -1673,3 +1673,184 @@ That was the best thing anyone could ever say to him.
 
 **THE END**
 
+---
+
+# Steve's Lightbulb Moments
+
+## The Problem
+
+Steve's team faces an impossible deadline: deliver FPP by December 1st—months earlier than anyone thought possible. The traditional playbook says you have three levers: cut scope, add overtime, or sacrifice quality. They've already pulled all three, and it's still not enough.
+
+The real problem isn't the deadline. It's the *way* they've been working: big batches of work, built in isolation, tested at the end, with fingers crossed that it all comes together. It never does—and by the time they find out, it's too late to fix.
+
+Steve needs a different approach. One that lets them go *faster* without sacrificing quality. One that puts them in control instead of constantly reacting to surprises.
+
+Here are the lightbulb moments that get him there—and how they stack together.
+
+---
+
+## The Lightbulbs
+
+### 💡 The Dog Food Problem
+*Eat what you serve.*
+
+Cheryl's cafeteria was about to be outsourced because the food was terrible. The fix? Craig made them eat their own cooking. Once they tasted what they were serving, they started caring about it—and quality transformed within two weeks.
+
+**The lesson:** Test your own product. Don't wait for customers to tell you it's broken.
+
+*First appears in: [[#The Dog Food Problem]]*
+
+---
+
+### 💡 The French Fry Revelation
+*Cook small batches. Replenish on demand.*
+
+Cheryl's team never runs out of chips, yet rarely throws any away. The secret: cook small batches based on what's actually selling, not what you *predicted* would sell. When demand spikes, cook bigger batches. When it slows, cook smaller ones.
+
+**The lesson:** Don't build everything upfront based on forecasts. Deliver in small chunks and adapt as you learn.
+
+*First appears in: [[#The French Fry Revelation]]*
+
+---
+
+### 💡 Requirements Are Really Forecasts
+*They're predictions, not facts.*
+
+If requirements were truly *required*, how could Catherine descope them twice? The 312-page requirements document wasn't a list of mandates—it was a forecast. And forecasts, by definition, are sometimes wrong.
+
+**The lesson:** Stop blaming yourself when requirements change. Change the way you work so it matters less when they do.
+
+*First appears in: [[#Requirements Are Really Forecasts]]*
+
+---
+
+### 💡 The 2x2 Grid (The Top-Right Corner)
+*You don't have to choose between quality and speed.*
+
+Everyone assumes you're choosing between high-quality-but-slow or fast-but-shoddy. But there's a top-right corner: high quality *and* fast. Quality, done right, doesn't slow you down—it speeds you up. All that rework at the end? That's the cost of building quality in *late*.
+
+**The lesson:** Build quality in early, in small batches, and you go faster.
+
+*First appears in: [[#Requirements Are Really Forecasts]]*
+
+---
+
+### 💡 Small Batches
+*Small projects delivering the most important features first.*
+
+Standing at the kitchen sink, Steve figures it out: a small batch is simply a small project that delivers a small selection of the *most important* features. Disappointingly dull—no thunderclaps or Eureka moments—but right.
+
+**The lesson:** Break big projects into small ones. Each one complete. Each one shippable.
+
+*First appears in: [[#Small Batches Click]]*
+
+---
+
+### 💡 The Inverted Pyramid
+*Structure work so every slice is good enough to ship.*
+
+Nineteenth-century journalists invented a new way of writing for the unreliable telegraph: put the most important paragraph first, then the next most important, and so on. Even if transmission was cut off halfway, the editor still had a useful article.
+
+Steve inverts FPP the same way: deliver the most valuable chunk first, fully tested, good enough to ship. Then the next chunk. Then the next. If December 1st arrives mid-transmission, they still have a working product.
+
+**The lesson:** Don't save the punchline for last. Deliver value early and keep adding to it.
+
+*First appears in: [[#Younger Men, With Stamina]]*
+
+---
+
+### 💡 Good Enough To Ship (GETS)
+*The quality standard that makes everything else work.*
+
+When Steve introduces the inverted pyramid, he keeps asking one question: "That would be good enough to ship, right?" Not perfect. Not gold-plated. But *shippable*—tested, reworked, and ready for real customers.
+
+GETS is the foundation. Without it, small batches are just small batches of rubbish. With it, every chunk of work is a complete, valuable product. Ron's independent review makes the same point: "In order for incremental development to work, each increment must be good enough to ship."
+
+**The lesson:** Define "done" as "ready for customers"—not "ready for testing" or "ready for review." If you wouldn't ship it, it's not done.
+
+*First appears in: [[#We Cannot Deliver on December 1st]]*
+
+---
+
+### 💡 The Customer Holds the Pen
+*Reprioritization isn't a change request—it's how the system works.*
+
+Catherine realizes she no longer has to *beg* for changes. She simply reprioritizes the list. "I'm not requesting a change, Steve. I am simply reprioritizing our list." The customer stays in control because the system is designed for adaptation.
+
+**The lesson:** When you work in small batches, change becomes cheap. Give the customer the pen.
+
+*First appears in: [[#I'm Not Begging for a Change]]*
+
+---
+
+### 💡 Walk Before You Run
+*Start small. Learn. Then scale.*
+
+Catherine's rollout plan: start with local branches, learn to walk before you run. Use the early rollout to test with real staff and real customers. When you find something you don't like, fix it—while the IT "pit crew" is still standing by and only a few branches are live.
+
+**The lesson:** Don't go big-bang. Roll out incrementally so you can learn and adapt.
+
+*First appears in: [[#Walk Before You Run]]*
+
+---
+
+### 💡 It Ain't Over Till the Cash Register Rings
+*Shipping early isn't just about making the deadline—it's about making money.*
+
+Eleanor does the math: eight months of unexpected sales, at half a million per month. Four million pounds in revenue that wouldn't have existed otherwise. The value isn't in *finishing* the project—it's in *selling* the product.
+
+**The lesson:** Speed to market isn't a vanity metric. It's money in the bank.
+
+*First appears in: [[#Four Million Pounds]]*
+
+---
+
+### 💡 You Don't Have to Choose
+*The top-right corner applies to life, too.*
+
+Steve thinks he has to choose between the dream job (with travel) and his family. Then he remembers Craig's 2x2 grid. What if he could have both? He negotiates: stay in Watt's Bridge, make FPP a success, then have *them* fly to *him*.
+
+**The lesson:** When someone presents you with two bad options, look for the third.
+
+*First appears in: [[#The Top-Right Corner]]*
+
+---
+
+## How They Stack Together
+
+The lightbulbs aren't random insights—they build on each other. And if we're building a house, **GETS** is the foundation.
+
+**The Foundation:**
+
+**Good Enough To Ship (GETS)** is the quality standard that makes everything else work. Without it, you're just delivering small batches of rubbish faster. With it, every chunk is a complete, valuable product.
+
+**The Building Blocks:**
+
+1. **The Dog Food Problem** teaches Steve that quality comes from caring—and caring comes from eating your own cooking.
+
+2. **The French Fry Revelation** shows that small batches solve both quality *and* forecasting problems.
+
+3. **Requirements Are Really Forecasts** reframes the problem: stop trying to predict perfectly; build a system that adapts.
+
+4. **The 2x2 Grid** reveals the prize: you *can* have quality and speed. The top-right corner exists.
+
+5. **Small Batches** is the key that unlocks the door.
+
+6. **The Inverted Pyramid** is how you structure the work—most important first, each slice shippable.
+
+**The Payoffs:**
+
+7. **The Customer Holds the Pen** makes the whole thing sustainable—change becomes cheap, so customers stop hoarding.
+
+8. **Walk Before You Run** extends the principle beyond software to rollout and training.
+
+9. **It Ain't Over Till the Cash Register Rings** reveals the real reward: this isn't just about making deadlines—it's about making money. Four million pounds of money.
+
+10. **You Don't Have to Choose** brings it full circle: the mindset Steve learned at work applies to his whole life.
+
+The midpoint—**The Inverted Pyramid**—ties most of them together. It's the structural insight that makes everything else work. But it only works because every slice meets the GETS standard.
+
+And the later lightbulbs matter too: they show what happens when you *keep* working this way, and what the real rewards are—not just for the company, but for Steve and his family.
+
+It ain't over till the cash register rings. And when it does? Fran would be proud.
+
