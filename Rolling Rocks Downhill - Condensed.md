@@ -1238,7 +1238,7 @@ She turned to face him. "Do you understand the financial implications of deliver
 
 Steve thought a moment. "We're finishing eight months early. That saves us... two million in development costs?"
 
-"No. We won't stop development in December—we'll keep investing in FPP, growing it. The only thing that matters is how well it sells. Try again."
+"No. You're thinking like an engineer, Steve—build the software, ship the software, job done." She shook her head. "We won't stop development in December—we'll keep investing in FPP, growing it. The only thing that matters is how well it *sells*." She fixed him with a look. "It ain't over till the cash register rings. Try again."
 
 He paused, not knowing where to start.
 
@@ -1249,6 +1249,8 @@ Steve's mouth slowly fell open as he crunched the numbers. Eight months of unexp
 "Four million pounds."
 
 "Four million cash in our coffers that wouldn't have been there otherwise." She nodded. "Who'd have thought that a drunken confession from a former employee would cause us to bring something like four million into the company?"
+
+She let that sink in, then leaned closer. "Your job, Steve, is to make money—to make the cash registers ring. Until you get that in your head, you're not doing your job."
 
 "Hal's happy with me then?"
 
