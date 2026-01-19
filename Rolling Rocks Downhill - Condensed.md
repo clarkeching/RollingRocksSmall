@@ -1250,9 +1250,11 @@ Steve's mouth slowly fell open as he crunched the numbers. Eight months of unexp
 
 "Four million cash in our coffers that wouldn't have been there otherwise." She nodded. "Who'd have thought that a drunken confession from a former employee would cause us to bring something like four million into the company?"
 
-She let that sink in, then leaned closer. "Your job, Steve, is to make money—to make the cash registers ring. Until you get that in your head, you're not doing your job."
+She let that sink in, then leaned closer, and drove the point home. "Your team's job, Steve, is to make software.  Your job, Steve, is to make money—to make the cash registers ring. Until you get that in your head, you're not doing your job. Get it?"
 
-"Hal's happy with me then?"
+Steve paused, then nodded emphatically.  "I've got it."
+
+Then he said, "Hal's happy with me then?"
 
 She chuckled. "Hal happy? What an interesting idea. As far as he's concerned, you promised February 1st, and pulling the date forward was just good management on *his* part. You're playing with the big boys and girls now, Steve. Get over it."
 
