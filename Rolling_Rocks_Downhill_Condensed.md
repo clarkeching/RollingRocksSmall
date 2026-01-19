@@ -3,8 +3,6 @@
 
 **By Clarke Ching**
 
-*Twenty years after Rolling Rocks Downhill was first published, here is the story distilled to its essence—the why behind the method, told the way it was always meant to be told.*
-
 ---
 
 # Part One: The Impossible Deadline
