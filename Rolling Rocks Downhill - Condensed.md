@@ -1,11 +1,10 @@
-# Rolling Rocks Downhill
-## A Condensed Edition
-
-**By Clarke Ching**
-
----
 
 # Part One: The Impossible Deadline
+
+## Bacon and Bad News
+
+> [!abstract] Chapter Summary
+> *Steve, jet-lagged and eating bacon at 5:26am, learns from his best friend Phil that their former colleague Pauline has been poached by competitor Chaste—and she's helping them build a copycat of FPP.*
 
 So let me tell you about Steve Abernethy.
 
@@ -35,6 +34,11 @@ Steve grimaced. He didn't know what else to say. They finished their food in sil
 
 ---
 
+## February 1st
+
+> [!abstract] Chapter Summary
+> *Steve checks the project status—April was always a stretch, October more realistic—then calls CFO Eleanor Scharlau to break the news about Pauline.*
+
 Steve made his way to his office. Wyx-Fin HQ sat just off the High Street, and his department was relegated to the sixth floor, where his prestigious corner office had its sea view blocked by a thoughtlessly placed parking garage.
 
 Before he could do anything else, he needed to get his story straight. He pulled up FPP's status reports—both of them. The public one said April 1st was "aggressive but achievable," which was code for *This date isn't really feasible, but we need to keep the pressure on, otherwise they'll slack off.* The management-eyes-only version said they were tracking toward October or November.
@@ -56,6 +60,11 @@ He told her about Pauline.
 She hung up.
 
 ---
+
+## The Rabbit, the Cow, and the Top Hat
+
+> [!abstract] Chapter Summary
+> *Eleanor delivers devastating news: CEO Halifax Gibbet has promised the launch date is now February 1st. FPP is Hal's get-out-of-jail-free card—and Steve realizes who'll get blamed if it fails.*
 
 At noon, Steve stepped out of the elevator into the penthouse foyer. He'd barely sat down on the leather couch when Halifax Gibbet—the CEO, five foot six inches tall and round—stomped out of Eleanor's office barking "No more excuses!" and marched straight past without acknowledging Steve's existence.
 
@@ -86,6 +95,11 @@ Then, as Steve reached the door, she asked one last question.
 "Tell me, who normally gets blamed when a software-intensive initiative like FPP fails? The CEO, the CFO, or the IT guys?"
 
 ---
+
+## Gravity Sucks
+
+> [!abstract] Chapter Summary
+> *We learn Steve is a widower—his wife Fran died two years ago, leaving him with two young daughters and his mum who moved in to help. The work crisis lands on someone already carrying grief.*
 
 Now, here's the thing about Steve that you need to know.
 
@@ -123,6 +137,11 @@ Gravity sucks.
 
 ---
 
+## Nibbled to Death by Ducklings
+
+> [!abstract] Chapter Summary
+> *Steve's Group CIO boss Norbert nags him—again—about meeting the local Quality guy, Craig Lally. Steve avoids it, thinking the last thing he needs is manufacturing advice from people who got outsourced.*
+
 Before the FPP management meeting, Steve called his other boss—his dotted-line boss—Norbert Billings, the Wyxcomb Group CIO. Norbert was tall, blonde and Dutch, and had worked within the company for decades. Steve gave him a quick update on the FPP situation. Norbert had already heard the news. He offered no direction or advice, only a request that Steve keep him up to date.
 
 Then Norbert blindsided him. "Now, tell me, did you ever contact Craig Lally?"
@@ -147,6 +166,11 @@ He had a very important meeting to gate-crash.
 
 ---
 
+## Lisa Plant
+
+> [!abstract] Chapter Summary
+> *Steve gate-crashes the FPP management meeting. We meet the key players: scary project manager Gregor, outspoken analyst Vrinda, tester Tim, and customer rep Catherine with her wild red hair.*
+
 Steve gate-crashed the FPP management meeting.
 
 The team gathered in the sixth-floor conference room: Gregor, the project manager—big, scary-looking, barrel-chested with a military-style haircut (office rumor had it he slept with the lights on, not because he was scared of the dark, but because the dark was scared of him); Vrinda, the lead analyst and Steve's old friend who never minced her words; Tim Phillips from testing; and Catherine MacDonald, the customer rep with deliberately wild red hair.
@@ -160,6 +184,11 @@ When Gregor finished, he asked if there were any questions.
 Steve said, "No, but I have some news."
 
 ---
+
+## The War Room
+
+> [!abstract] Chapter Summary
+> *Steve breaks the news about the new deadline. He gives them 24 hours to create a recovery plan, warning them that quality is now negotiable—"this baby will be born premature."*
 
 Vrinda reacted first. "Oh great! Here we go again. Another arbitrary date imposed on us from on high!"
 
@@ -193,6 +222,11 @@ Her forehead furrowed. She wasn't happy. But what choice did she have?
 
 ---
 
+## Ahoy, Me Mateys
+
+> [!abstract] Chapter Summary
+> *Steve comes home to his fairy-tale gatehouse and surprises his daughters. A moment of warmth amid the crisis—"Ahoy, me mateys!"*
+
 That evening, Steve came home to his fairy-tale gatehouse—a two-hundred-year-old stone building built into the defensive walls of a country estate, complete with vines creeping up the walls and round turrets. A couple of times each day, tourists would stop to take photographs. From the inside, it looked like any modern small house, though the doors were built for a time when people were considerably shorter.
 
 He snuck through the front door to surprise the kids. He heard Scooby-Doo playing in the den. Dropped his bag, slipped off his shoes, tiptoed down the hall.
@@ -208,6 +242,11 @@ He sat the girls down and dished out the parcels. They were shiny, tacky little 
 It felt good to be properly home.
 
 ---
+
+## Sticky-Note Triage
+
+> [!abstract] Chapter Summary
+> *The team presents their War Room plan: a skeletal product with features force-ranked on sticky notes. Shockingly, they've descoped the web app entirely. Gregor announces compulsory overtime and cancelled holidays.*
 
 The next afternoon, Steve returned to the War Room. The walls were covered with flip chart paper and Post-it notes, the table with printouts and coffee cups. A stack of empty pizza boxes sat at the back of the room. If work had an odor, then the room smelled of work.
 
@@ -243,6 +282,11 @@ Steve intervened. "Look. If you two kids can't play nicely together then I'll se
 
 ---
 
+## Ron's Three Lists
+
+> [!abstract] Chapter Summary
+> *Steve meets Ron McKnight, the grumpy old-timer who runs support and maintenance with a simple three-list system. Ron agrees to bump non-urgent work to make room for FPP bug fixes.*
+
 Steve also met with Ron McKnight, his support and maintenance manager. Ron was a grey-haired, Wyx-Fin old-timer, a curmudgeonly mix of gruff, grumpy, dour, and a few of the other lesser-known Disney dwarfs. He'd worked within Wyx-Fin's software department forever and still rolled up his sleeves whenever they had particularly ugly technical problems.
 
 Ron operated with a simple three-list system. List #1 was a long list of requests not yet started. List #2 held the requests currently being worked on—it was always a thin list. And List #3 was an ever-growing list of finished work.
@@ -254,6 +298,11 @@ Ron pulled out his battered ring-binder, flipped through a few pages, and said h
 Ron was a grumpy old fella, Steve thought, but he was also flexible in a crisis.
 
 ---
+
+## That Man Is an Arse
+
+> [!abstract] Chapter Summary
+> *Vrinda tells Steve that Gregor has been "lying" about project health—then Steve reveals they all knew April was unrealistic. She asks: "Surely there are better ways to motivate us lazy workers?"*
 
 On the walk to his office, Steve asked Vrinda what was wrong.
 
@@ -305,6 +354,11 @@ She shook her head. "I never said he's an ogre. I said he's an arse, and I impli
 
 ---
 
+## You Look Like a Dork
+
+> [!abstract] Chapter Summary
+> *Steve finally meets Craig Lally for brunch. Craig takes him to meet Cheryl in the cafeteria kitchen, but Steve is distracted, checking his phone. Cheryl notices—"Looks like we've got another skeptic here."*
+
 A few days later, Steve finally caved to Norbert's nagging and met Craig Lally for brunch.
 
 Craig was late-fifties, tieless, and looked like a man who climbed mountains for pleasure and drove there in a twenty-year-old Volvo he maintained himself. He led Steve down to the cafeteria kitchen to meet Cheryl, a thin, short, middle-aged woman who'd worked there for twenty-eight years.
@@ -332,6 +386,11 @@ Craig sighed. "Let's talk when you're ready to listen."
 Steve left, feeling slightly guilty but mostly relieved. The last thing he needed was manufacturing wisdom from people who'd lost their jobs to outsourcing.
 
 ---
+
+## The Mutiny
+
+> [!abstract] Chapter Summary
+> *The staff walks out to the pub. Steve finds them at The Burns Unit, furious about cancelled holidays. Vrinda negotiates: they'll go back to work, but no compulsory overtime—and they'll slash features further.*
 
 A week later—mid-August now—it got worse.
 
@@ -383,6 +442,11 @@ Steve liked that about him.
 
 ---
 
+## December 1st
+
+> [!abstract] Chapter Summary
+> *Declan delivers a double blow: Chaste has moved their launch to February 1st—and Hal has issued a press release announcing Wyx-Fin will launch on December 1st. Hal has declared war on Chaste.*
+
 Outside in the sunlight, Declan caught up with Steve, sucking on an orange plastic cigar—a nicotine replacement device, apparently designed for extroverts.
 
 They were almost at the staff entrance when Declan rushed back, panting.
@@ -405,6 +469,11 @@ Steve decided, there and then, to go upstairs and explain to Hal precisely what 
 
 # Part Two: Learning the Tools
 
+## Fowl Mood
+
+> [!abstract] Chapter Summary
+> *Steve chickens out of confronting Hal. Instead, he tells Gregor to cancel the compulsory overtime and cancelled vacations. Gregor asks: "What would you have done differently?" Steve has no answer.*
+
 *Late August.*
 
 Steve was in a fowl mood when he made it back to his desk. Yes, *fowl*, not foul. Somewhere between the second and fourth floors, the rational part of his brain clicked in. He turned into a big chicken and pushed the button for the sixth floor instead of the penthouse. He'd spent almost twenty years climbing the Wyxcomb ladder, and he wasn't about to throw that all away impulsively.
@@ -426,6 +495,11 @@ Gregor shrugged. He was old enough, ugly enough and grumpy enough to be thick-sk
 Steve shook his head. "But it shouldn't be. We should be better at this."
 
 ---
+
+## Start Looking for a New Job
+
+> [!abstract] Chapter Summary
+> *Steve calls Norbert, who delivers brutal news: he can't protect Steve if FPP fails. Norbert's advice: beg Craig Lally for help—"Maybe he can see things the rest of us can't." And start looking for a new job.*
 
 Steve tried to call Eleanor, but she was mid-flight to Sweden with Hal.
 
@@ -473,6 +547,11 @@ Then he hung up.
 
 ---
 
+## Ten Minutes
+
+> [!abstract] Chapter Summary
+> *Steve swallows his pride and calls Craig, who reluctantly agrees to give him ten minutes. Steve spends eight of them explaining his crisis. Craig promises to help—a noose around one's neck focuses the mind.*
+
 Five very long minutes later, Steve forced a smile on his face and dialed Craig Lally. It was 3:56 p.m.
 
 Craig answered, then paused. "I didn't expect to hear from you again."
@@ -505,6 +584,11 @@ Craig told Steve to hold. Steve heard muffled conversation in the background. A 
 
 ---
 
+## Don't Think About Small Batches
+
+> [!abstract] Chapter Summary
+> *Craig gives Steve one strange instruction: "Do not think about small batches." Steve has no idea what he's talking about.*
+
 When they sat down, Craig had one rule.
 
 "Do not think about small batches. Okay?"
@@ -516,6 +600,11 @@ When they sat down, Craig had one rule.
 Steve had no idea what he was talking about.
 
 ---
+
+## The Dog Food Problem
+
+> [!abstract] Chapter Summary
+> *Cheryl explains how the cafeteria was about to be outsourced—the food was barely fit for a dog. Craig forced them to eat their own cooking, and within two weeks they'd transformed the quality.*
 
 Craig took Steve back into the cafeteria kitchen to meet Cheryl—the thin, short, middle-aged woman who'd worked there for twenty-eight years.
 
@@ -560,6 +649,11 @@ That was the Dog Food Problem—eat what you serve. Taste the software.
 "But that was only the first step," Cheryl said.
 
 ---
+
+## The French Fry Revelation
+
+> [!abstract] Chapter Summary
+> *Cheryl reveals the secret of never running out of chips: cook small batches and replenish on demand. By the end of the first month, they were serving 30% more customers. Revenue up 40%. Jobs saved.*
 
 Cheryl led them to the deep fryers.
 
@@ -619,6 +713,11 @@ Craig thanked Cheryl and they made their way back to their seats out front.
 
 ---
 
+## Requirements Are Really Forecasts
+
+> [!abstract] Chapter Summary
+> *Craig challenges Steve's assumptions: "requirements" are really just forecasts—predictions that may be wrong. He sketches a 2x2 grid showing most people think you choose between quality and speed—but there's a top-right corner.*
+
 Craig picked up the 312-page FPP requirements folder and weighed it in his hands.
 
 "These things you call *requirements*—I don't think that word means what you think it means."
@@ -677,6 +776,11 @@ Steve checked his phone. He had a voicemail from Eleanor which more or less told
 
 ---
 
+## Homework at the Kitchen Sink
+
+> [!abstract] Chapter Summary
+> *Steve does the dishes and thinks about Cheryl's lessons. He realizes his requirements document is really just a forecast—and they've already thrown away work they'd built, just like Cheryl threw away unsold food.*
+
 That evening, Steve did the dishes—he and his mum had a deal where she cooked and he cleaned. As he scrubbed away, his mind played back the day. The mutiny. The cafeteria. The very real possibility he wouldn't have a job in a few months.
 
 Not your typical day at the office.
@@ -716,6 +820,11 @@ But how? In the cafeteria, they prioritized by cooking more of what customers we
 He scrubbed at the porridge pot, thinking.
 
 ---
+
+## Small Batches Click
+
+> [!abstract] Chapter Summary
+> *Steve finds Ashley's half-eaten cereal—she always takes more than she needs. The insight clicks: small batches are simply small projects delivering the most important features first. Disappointingly dull, but right.*
 
 He went to the lounge looking for stray dishes and found two bowls the kids had left. One was empty, the other half-full of soggy cornflakes. That would be his little Ashley—she always took more cereal than she needed, then they ended up wasting it. He'd asked her, many times, to just take a small bowl's worth then get more if she was still hungry.
 
@@ -759,6 +868,11 @@ Craig was right; small batches were key. But a key is useless without someone to
 
 # Part Three: The Inverted Pyramid
 
+## The Heart Attack Survivor
+
+> [!abstract] Chapter Summary
+> *FPP is in a state of emergency—Steve's equivalent of a heart attack. He needs to make the most of that crisis to drive change.*
+
 *Early September.*
 
 Do you know any ex-smokers who only found the impetus to give up after surviving their first heart attack?
@@ -768,6 +882,11 @@ Steve knew two.
 FPP was in a state of emergency—his equivalent of a heart attack survivor—and he had to make the most of that.
 
 ---
+
+## Younger Men, With Stamina
+
+> [!abstract] Chapter Summary
+> *Steve calls Catherine and realizes she could have told them the minimum viable product from day one. He thinks about Ron's three-list system, then hunts for a book in his attic—and discovers the inverted pyramid.*
 
 That evening, Steve called Catherine—his customer rep, the one with the wild red hair who'd taken Pauline's betrayal so personally. He needed to understand something.
 
@@ -867,6 +986,11 @@ He turned the page toward her and smiled. "There it is: the inverted pyramid."
 
 ---
 
+## Transaction Complete
+
+> [!abstract] Chapter Summary
+> *The team watches as Catherine, wearing a paper "CSR" hat, keys in the first customer application through FPP. A lot is riding on this thin slice of software working properly.*
+
 Three weeks later, the team sat squished around the conference room table. Another dozen stood against the walls. The room looked more lived in now—walls covered in printouts, sticky notes, and drawings. A large fluorescent pink, green and white striped toy snake, which Vrinda had named Fippy, had mysteriously threaded his way across the top of the projection screen.
 
 Catherine wore a paper hat with "CSR" written on it in thick black pen. Customer Service Representative. She was pretending to be one—keying in the first customer application through the software. The screen showed an hourglass.
@@ -876,6 +1000,11 @@ They watched and waited.
 A lot was riding on this thin slice of FPP working properly.
 
 ---
+
+## We Cannot Deliver on December 1st
+
+> [!abstract] Chapter Summary
+> *Steve tells the team the truth: December is impossible. He introduces the inverted pyramid—deliver the most important features first, each chunk "good enough to ship." Catherine insists on being involved in prioritization.*
 
 Three weeks earlier, Steve had assembled the leadership team and told them the truth.
 
@@ -1025,6 +1154,11 @@ In the end, they settled on a tiny chunk—the tip of the iceberg—that would t
 
 ---
 
+## It Worked
+
+> [!abstract] Chapter Summary
+> *Catherine clicks the Finish button. The hourglass spins. Then: "Transaction complete." It worked.*
+
 Three weeks later—Phil's concerns about the messaging system having come true—they finally delivered their first chunk.
 
 Catherine clicked the *Finish* button. The cursor turned into an hourglass.
@@ -1041,6 +1175,11 @@ It worked.
 
 # Part Four: Transformation Under Fire
 
+## The Rhythm
+
+> [!abstract] Chapter Summary
+> *The team falls into a rhythm: build, test, fix, ship, repeat. Every few days—bam!—another chunk shipped. Exhausting, but working.*
+
 *Early October.*
 
 Their first chunk of good-enough-to-ship software worked. Transaction complete.
@@ -1054,6 +1193,11 @@ The messaging system gave them grief—Phil's concerns had been well-founded—b
 It was exhausting. But it was working.
 
 ---
+
+## Don't Screw It Up
+
+> [!abstract] Chapter Summary
+> *Hal summons Steve and confronts him about changing the approach without permission. Steve holds his ground: "You gave me a deadline. You didn't tell me how to hit it." Hal nods. "Don't screw it up."*
 
 Hal summoned Steve to the penthouse. He didn't offer him a seat.
 
@@ -1070,6 +1214,11 @@ Hal studied him for a long moment. Then he nodded, once. "Fair enough. Don't scr
 That was as close to encouragement as Hal ever got.
 
 ---
+
+## Four Million Pounds
+
+> [!abstract] Chapter Summary
+> *Eleanor reveals the financial impact: delivering eight months early means four million pounds in unexpected revenue. Hal's happy? "What an interesting idea." Steve's played with the big boys—and got pooped on by a seagull.*
 
 Steve met Eleanor by the sea wall, near her favorite spot overlooking the harbor. A seagull squawked above them.
 
@@ -1110,6 +1259,11 @@ Then she hung up on him.
 The seagull had pooped on him, after all.
 
 ---
+
+## You Should Have Asked for Help Earlier
+
+> [!abstract] Chapter Summary
+> *Ron reveals that Steve's inverted pyramid is actually well-established "incremental delivery"—used successfully since the 1970s. Steve didn't invent it; he rediscovered it. "You should have asked for help earlier."*
 
 A few weeks later, Steve stood outside Ron McKnight's office. It was 8:36 p.m.
 
@@ -1171,6 +1325,11 @@ Ron shook his head solemnly. "Wrong. You should have asked for help earlier."
 
 ---
 
+## I'm Not Begging for a Change
+
+> [!abstract] Chapter Summary
+> *Catherine realizes she no longer has to beg for change requests—she can simply reprioritize. "I'm not requesting a change, Steve. I am simply reprioritizing our list." The new feature will differentiate them from Chaste.*
+
 The next morning, Catherine marched into Steve's office, Gregor a few steps behind her. Neither looked happy.
 
 "Shoot," Steve said.
@@ -1203,6 +1362,11 @@ Catherine nodded. "I know that when you add this feature, I'll lose something fr
 
 ---
 
+## We Could Go Live Today
+
+> [!abstract] Chapter Summary
+> *Catherine is exhausted—juggling training, rollout, and development. But she says something surprising: "If we were desperate, we could go live today." Her bare minimum has shrunk again.*
+
 A week later, Catherine met Steve in Lister Square, halfway between their offices. She looked exhausted—dark rings under her eyes, hair tied back in an efficient but unflattering ponytail.
 
 "My get-up-and-go has not only got up and gone," she said, "it's taken my will to live with it."
@@ -1232,6 +1396,11 @@ Steve stared at her. Her bare minimum had shrunk yet again.
 She was right. The pyramid had inverted not just for software, but for the whole project.
 
 ---
+
+## Walk Before You Run
+
+> [!abstract] Chapter Summary
+> *Catherine presents the incremental rollout plan: start with local branches, learn to walk before you run. Mark wraps it up: "A pig is just a pig until you put a ribbon on it—then it becomes a gift." Hal's verdict: "pig-ugly website."*
 
 The internal launch event came two weeks before go-live—mid-November now. Mark had assembled an audience of everyone who mattered—plus Steve.
 
@@ -1270,6 +1439,11 @@ Steve smiled. Pig-ugly was apt, and if that was the worst Hal could say, it was 
 ---
 
 # Part Five: Resolution
+
+## Your Choice
+
+> [!abstract] Chapter Summary
+> *Eleanor and Hal reveal the stakes: if FPP doesn't sell well by August, Wyx-Fin gets sold. But Norbert wants Steve for a new Group-wide role—with more travel. Steve has a choice to make.*
 
 *November 17th.*
 
@@ -1355,6 +1529,11 @@ They sat.
 
 ---
 
+## The Top-Right Corner
+
+> [!abstract] Chapter Summary
+> *Steve remembers Craig's 2x2 grid—and realizes he doesn't have to choose between the dream job and his family. He calls Norbert and negotiates his way into both jobs. "Congratulations, Steve. You just negotiated your way into both jobs."*
+
 Steve closed his eyes and let his head fall back toward the ceiling.
 
 They weren't telling him everything. They were in the middle of a negotiation—selling him on staying by emphasizing the pros and downplaying the cons, while doing the opposite for leaving. If Norbert were there, he'd do exactly the same from his perspective.
@@ -1414,6 +1593,11 @@ Eleanor nodded slowly. Hal raised an eyebrow, then shrugged. "Works for me."
 "Then we have a deal," Norbert said. "Congratulations, Steve. You just negotiated your way into both jobs."
 
 ---
+
+## Fran Would Be Proud
+
+> [!abstract] Chapter Summary
+> *Steve wakes hungover after celebrating. Alison watches Scooby-Doo, his mum makes bacon, and he texts Craig the good news. Best of all: more time at home. "Fran would be proud of you."*
 
 The following morning, Steve woke late, instantly regretting he'd agreed to join Phil and Gregor and Vrinda and Tim for "just one pint" after FPP's disco.
 
