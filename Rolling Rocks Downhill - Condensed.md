@@ -28,7 +28,7 @@ But Pauline didn't know FPP was running late. She thought they were on track for
 
 Luca arrived with two fully-loaded plates. He grinned and tilted his head toward the cabbies. "Thank them. Your need seemed greater."
 
-Phil looked down at his empty coffee cup. "She was a friend."
+Phil looked down at his coffee cup. "She was a friend."
 
 Steve grimaced. He didn't know what else to say. They finished their food in silence.
 
@@ -41,9 +41,9 @@ Steve grimaced. He didn't know what else to say. They finished their food in sil
 
 Steve made his way to his office. Wyx-Fin HQ sat just off the High Street, and his department was relegated to the sixth floor, where his prestigious corner office had its sea view blocked by a thoughtlessly placed parking garage.
 
-Before he could do anything else, he needed to get his story straight. He pulled up FPP's status reports—both of them. The public one said April 1st was "aggressive but achievable," which was code for *This date isn't really feasible, but we need to keep the pressure on, otherwise they'll slack off.* The management-eyes-only version said they were tracking toward October or November.
+Before he could do anything else, he needed to get his story straight. He pulled up FPP's status reports—both of them. The public one said April 1st was "aggressive but achievable," which was code for *This date isn't really feasible, but we need to keep the pressure on, otherwise they'll slack off.* The management-eyes-only version said they were tracking toward October or November, but who really knew when it would ship? They were tracking in months, and seasons, but years were more realistic. 
 
-So nothing had changed. April was nine months away, but they needed at least fifteen.
+April was nine months away, but they needed at least fifteen.
 
 He called Eleanor Scharlau, the CFO. She didn't do small talk.
 
@@ -72,7 +72,7 @@ Ten minutes later, Eleanor led Steve into her office and pointed him toward her 
 
 Eleanor got straight to the point. "Hal promised Group we would beat Chaste to market. Our new launch date is February 1st."
 
-"February? I agreed to match them, not beat them."
+"February? I agreed to match them, not beat them. He can’t do that."
 
 "He can, and—in fact—he just has." She spoke quietly, coldly. "The date isn't open for debate."
 
@@ -103,9 +103,7 @@ Then, as Steve reached the door, she asked one last question.
 
 Now, here's the thing about Steve that you need to know.
 
-He's a widower. His wife Fran died of a brain aneurysm two-and-a-half years earlier while they were vacationing in Rome. They'd only been married three years. Their girls—Ashley, seven, and Alison, four—were still very young. Steve's mum flew to Rome and helped sort things out, then took early retirement and moved in with them. She'd been looking after the family ever since.
-
-So Steve's already carrying grief when this impossible work situation lands on him.
+He's a widower. His wife Fran died of a brain aneurysm two-and-a-half years earlier while they were vacationing in Rome. They'd only been married three years, together much longer. Their girls—Ashley, seven, and Alison, four—were very young, and hardly knew their Mum. Steve's mum flew to Rome and helped sort things out, then took early retirement and moved in with them. She'd been looking after the family ever since.
 
 He called his mum to say he'd be late home.
 
@@ -115,7 +113,7 @@ He called his mum to say he'd be late home.
 
 He started to explain about Pauline, but his mum interrupted.
 
-"Pauline? Short? Mousey hair? A bit dumpy?"
+"Pauline? Short? Mousey hair? Laughs a bit too loud?"
 
 "You only met her twice."
 
@@ -124,8 +122,6 @@ He started to explain about Pauline, but his mum interrupted.
 "She was a friend," Steve said quietly.
 
 "I don't imagine, then, that she betrayed you lightly."
-
-"My poor boy," she said. "You've all worked so long on this project."
 
 "It'll be okay."
 
@@ -142,11 +138,11 @@ Gravity sucks.
 > [!abstract] Chapter Summary
 > *Steve's Group CIO boss Norbert nags him—again—about meeting the local Quality guy, Craig Lally. Steve avoids it, thinking the last thing he needs is manufacturing advice from people who got outsourced.*
 
-Before the FPP management meeting, Steve called his other boss—his dotted-line boss—Norbert Billings, the Wyxcomb Group CIO. Norbert was tall, blonde and Dutch, and had worked within the company for decades. Steve gave him a quick update on the FPP situation. Norbert had already heard the news. He offered no direction or advice, only a request that Steve keep him up to date.
+Before the FPP management meeting, Steve called his other boss—his dotted-line boss—Norbert Billings, the Wyxcomb Group CIO, based in Sweden. Norbert was tall, blonde and Dutch, and had worked within the group for decades. Steve gave him a quick update on the FPP situation. Norbert had already heard the news. He offered no direction or advice, only a request that Steve keep him up to date.
 
 Then Norbert blindsided him. "Now, tell me, did you ever contact Craig Lally?"
 
-Craig Lally was the local Quality guy—one of those process improvement people Norbert had been pushing on the subsidiaries. Months earlier, Norbert had asked Steve and his counterparts to meet with their local Quality teams to explore how they could improve their development practices.
+Craig Lally was the local Quality guy—one of those process improvement people Norbert had been pushing on all of the subsidiaries. Months earlier, Norbert had asked Steve and his counterparts to meet with their local Quality teams to explore how they could improve their development practices.
 
 Steve knew someone in Wyxcomb Health had contacted this Craig Lally fellow, and they'd ended up outsourcing their entire development team. He did not want to be outsourced.
 
@@ -157,6 +153,8 @@ Steve knew someone in Wyxcomb Health had contacted this Craig Lally fellow, and 
 "Ahhh, no, not fully, not yet."
 
 Sometimes working for Norbert felt like being nibbled to death by ducklings. A little nip here—*You don't ask for enough help*; a little nip there—*Have you read this report*? None of the nips hurt individually, but over time...
+
+“You should. Even you might learn something.”
 
 "Yeah. I know. You're right," Steve said out loud, trying to sound suitably respectful while saying *nip, nip, nip* in his head. "I'll call him. But FPP's management meeting starts in a few minutes. I really have to go."
 
@@ -173,11 +171,11 @@ He had a very important meeting to gate-crash.
 
 Steve gate-crashed the FPP management meeting.
 
-The team gathered in the sixth-floor conference room: Gregor, the project manager—big, scary-looking, barrel-chested with a military-style haircut (office rumor had it he slept with the lights on, not because he was scared of the dark, but because the dark was scared of him); Vrinda, the lead analyst and Steve's old friend who never minced her words; Tim Phillips from testing; and Catherine MacDonald, the customer rep with deliberately wild red hair.
+The team gathered in the sixth-floor conference room: Gregor, the project manager—big, scary-looking, barrel-chested with a military-style haircut (office rumor had it he slept with the lights on, not because he was scared of the dark, but because the dark was scared of him); Vrinda, the lead analyst and Steve's old friend who never minced her words; Tim Phillips from testing; and Catherine MacDonald, FPP’s commercially focused product manager, with deliberately wild red hair.
 
 Steve sat at the head of the table, half-listening to Gregor drone through the Gantt chart, zoning out to study a potted palm tree by the door. There were three of them in this room and dozens of other plants spread throughout the office. Facilities hired them from a local company called Lease-A-Plant. The first time Steve heard their name mentioned, he thought they were talking about a person named Lisa Plant—who he imagined was aging rock star Robert Plant's daughter.
 
-He came up with a plan to hide behind the palm and jump out to surprise people as they arrived. His kids would have loved that. He smiled at the thought but left it at that; he'd save his surprise for later in the meeting.
+He’d always planned to, one day, arrive early to one of these meetings and hide behind the palm then jump out to surprise people as they arrived. But he never did. His kids would have loved that. He smiled at the thought but left it at that; he'd save his surprise for later in the meeting.
 
 When Gregor finished, he asked if there were any questions.
 
@@ -194,9 +192,9 @@ Vrinda reacted first. "Oh great! Here we go again. Another arbitrary date impose
 
 Catherine's response was slower. She flinched when she heard about the betrayal, then assumed a poker face. "So, the only way we can hit the date is by throwing away most of the work we've done? And lowering our quality standards?"
 
-"Something's gotta give."
+Steve shrugged, glumly. 
 
-She looked at Phil. "Pauline really did this?"
+Catherine looked at Phil. "Pauline really did this?"
 
 He nodded.
 
@@ -208,9 +206,9 @@ Steve gave them their marching orders. War Room for twenty-four hours. Deliver a
 
 "Second, you will have to cut the product drastically. Catherine, your job is to ensure the product has the features necessary and sufficient to go live, but no more.
 
-"Third, FPP is Wyx-Fin's number-one priority. If anything gets in your way, tell me and I'll move it.
+"Third, FPP is Wyx-Fin's number-one priority. If anything gets in your way, tell me and I'll move it. My job is to turn any and all organisational red lights green. 
 
-"And finally, I hate to say this, but quality is negotiable—to a point. This baby will be born premature."
+"And finally, I hate to say this, but quality is negotiable—to a point. This baby will be born premature. We’re just gonna have accept that, and keep moving.  We can fix things up later, after we are live."
 
 He looked at Catherine. "Come February 1st, the product will contain a large number of known and unknown defects. You'll need to make the final call about whether we go live."
 
@@ -227,7 +225,7 @@ Her forehead furrowed. She wasn't happy. But what choice did she have?
 > [!abstract] Chapter Summary
 > *Steve comes home to his fairy-tale gatehouse and surprises his daughters. A moment of warmth amid the crisis—"Ahoy, me mateys!"*
 
-That evening, Steve came home to his fairy-tale gatehouse—a two-hundred-year-old stone building built into the defensive walls of a country estate, complete with vines creeping up the walls and round turrets. A couple of times each day, tourists would stop to take photographs. From the inside, it looked like any modern small house, though the doors were built for a time when people were considerably shorter.
+That evening, Steve came home to his fairy-tale home —a two-hundred-year-old stone gatehouse built into the defensive walls of a country estate, complete with vines creeping up the walls and round turrets, and rumours of ghosts. A couple of times each day, tourists would stop to take photographs. From the inside, it looked like any modern small house, though the doors were built for a time when people were considerably shorter.
 
 He snuck through the front door to surprise the kids. He heard Scooby-Doo playing in the den. Dropped his bag, slipped off his shoes, tiptoed down the hall.
 
@@ -272,6 +270,8 @@ Steve closed his eyes and took a calming breath. "I'm so sorry, Catherine."
 
 She shrugged. "It's not your fault, Steve. You didn't change the date. Circumstances did."
 
+Circumstances- the ultimate bad guy. 
+
 Gregor cleared his throat. "The new plan came in at six months, including two weeks at the end for launch. I'll announce compulsory paid overtime on Monday and ask everyone to voluntarily cancel any holidays they have planned for the next six months."
 
 Vrinda snapped at him. "They'll hate you for that."
@@ -287,15 +287,21 @@ Steve intervened. "Look. If you two kids can't play nicely together then I'll se
 > [!abstract] Chapter Summary
 > *Steve meets Ron McKnight, the grumpy old-timer who runs support and maintenance with a simple three-list system. Ron agrees to bump non-urgent work to make room for FPP bug fixes.*
 
-Steve also met with Ron McKnight, his support and maintenance manager. Ron was a grey-haired, Wyx-Fin old-timer, a curmudgeonly mix of gruff, grumpy, dour, and a few of the other lesser-known Disney dwarfs. He'd worked within Wyx-Fin's software department forever and still rolled up his sleeves whenever they had particularly ugly technical problems.
-
-Ron operated with a simple three-list system. List #1 was a long list of requests not yet started. List #2 held the requests currently being worked on—it was always a thin list. And List #3 was an ever-growing list of finished work.
+Steve met with Ron McKnight, his support and maintenance manager to give him a heads up. Ron was a grey-haired, Wyx-Fin old-timer, a curmudgeonly mix of gruff, grumpy, dour, and a few of the other lesser-known Disney dwarfs. He'd worked within Wyx-Fin's software department forever and still rolled up his sleeves and got his hands dirtywhenever they had particularly ugly technical problems.
 
 Steve asked him to clear space in the schedule for FPP bug fixing.
 
-Ron pulled out his battered ring-binder, flipped through a few pages, and said he could bump the non-urgent work to next year. "They're my customers. They understand. They'll happily take what they can get, because none of them want to get on my bad side."
+Ron pulled out his battered ring-binder, flipped through a few pages, studying them, tutting as he turned. 
 
-Ron was a grumpy old fella, Steve thought, but he was also flexible in a crisis.
+Steve worked for Ron years earlier, and he knew that Ron ran his entire team using a simple three-list system. List #1 was a long list of requests not yet started. List #2 held the requests currently being worked on—it was always a thin list (that was one of Ron’s rules). And List #3 was an ever-growing list of finished work.
+
+He looked up and said he could, reluctantly, bump a bunch of non-urgent work to next year.
+
+Steve said, “Sorry.”
+
+Ron shrugged. "They're my customers. They understand. They'll happily take what they can get, because none of them want to get on my bad side."
+
+Ron was a grumpy old fella, Steve thought, but he was remarkably flexible in a crisis.
 
 ---
 
@@ -304,7 +310,7 @@ Ron was a grumpy old fella, Steve thought, but he was also flexible in a crisis.
 > [!abstract] Chapter Summary
 > *Vrinda tells Steve that Gregor has been "lying" about project health—then Steve reveals they all knew April was unrealistic. She asks: "Surely there are better ways to motivate us lazy workers?"*
 
-On the walk to his office, Steve asked Vrinda what was wrong.
+On the walk to his office, Steve stopped by Vrinda's cubicle, knelt beside her and said, "You were hard on Gregor, before." 
 
 "That man is an arse. None of us like working for him. He doesn't listen. He doesn't trust any of us and frankly, we do not trust him."
 
@@ -350,7 +356,7 @@ Steve said, "You know this. The scope of the project always expands until it's t
 
 They walked the rest of the way in silence. At the building entrance, Steve said, "Look, I know you desperately want FPP to succeed. So do I. So does Gregor. But he has an incredibly difficult job juggling a lot of question marks and balancing a load of conflicting needs. I don't think he's the ogre you think he is."
 
-She shook her head. "I never said he's an ogre. I said he's an arse, and I implied this project is going to crash and burn."
+She shook her head. "I never said he's an ogre. I said he's an arse, and I think this project is going to crash and burn."
 
 ---
 
@@ -363,11 +369,13 @@ A few days later, Steve finally caved to Norbert's nagging and met Craig Lally f
 
 Craig was late-fifties, tieless, and looked like a man who climbed mountains for pleasure and drove there in a twenty-year-old Volvo he maintained himself. He led Steve down to the cafeteria kitchen to meet Cheryl, a thin, short, middle-aged woman who'd worked there for twenty-eight years.
 
-"Craig says you've got yourself in a bit of a mess and you need old Cheryl to show you how to sort it out?" she said.
+He said that Norbert had briefed him on Steve’s situation, and he liked to start his chats with a quick behind-the-scenes tour of Cheryl’s cafeteria.
 
-Steve felt his face redden. "Something like that."
+Cheryl said, "Craig says you've got yourself in a bit of a mess and you need old Cheryl to show you how to sort it out?" she said.
 
-"Good. First, can you take off your tie, please?"
+Steve felt his face redden, not sure what was going on. That wasn’t why he was here - he was just getting Norbert of his back.
+
+She said, "Can you take off your tie, please?"
 
 "Is it a safety hazard?"
 
@@ -375,34 +383,54 @@ Steve felt his face redden. "Something like that."
 
 She said it in such a nice way that Steve did as he was told.
 
-Cheryl started explaining how they'd transformed the cafeteria—something about dog food and French fries. But Steve kept glancing at his watch and checking his phone. He had twenty-one new emails and three missed calls. He wasn't sure what a cafeteria's turnaround story had to do with his impossible software deadline.
+Cheryl started explaining how they'd transformed the cafeteria—something about dog food and French fries. Steve nodded along, but his mind was elsewhere. Twenty-one new emails. Three missed calls. An impossible deadline. He wasn't sure what a cafeteria had to do with any of it.
 
-Cheryl noticed. Her smile dropped into a deep frown. "Looks like we've got another skeptic here."
+Cheryl was mid-sentence when Steve's phone buzzed. He glanced at the screen. Mum.
 
-Steve apologized and said he had to go. Cheryl made a face, as if she'd smelled something bad. "We'll see," she said, and walked off without saying goodbye.
+"Sorry, I need to take this." He stepped away. "Hi Mum. Yes. No. Yes, that's fine. No, I'm in a meeting. Yes. Okay. Okay. Look, I really have to—yes. Okay. Bye."
+
+He turned back to find Cheryl watching him, arms folded. Her smile had dropped into a deep frown.
+
+"I'm so sorry," Steve said. "Family emergency. I have to go."
+
+Cheryl made a face, as if she'd smelled something bad. "We'll see," she said, and walked off without saying goodbye.
 
 Craig sighed. "Let's talk when you're ready to listen."
 
-Steve left, feeling slightly guilty but mostly relieved. The last thing he needed was manufacturing wisdom from people who'd lost their jobs to outsourcing.
+Steve left, feeling slightly guilty but mostly relieved. There was no emergency—just a question about what the kids wanted for tea. But the last thing he needed was manufacturing wisdom from a cook and an earnest man who liked outsourcing people.
 
 ---
 
 ## The Mutiny
 
 > [!abstract] Chapter Summary
-> *The staff walks out to the pub. Steve finds them at The Burns Unit, furious about cancelled holidays. Vrinda negotiates: they'll go back to work, but no compulsory overtime—and they'll slash features further.*
+> *Eleanor delivers Hal's ultimatum: ship on time or find a new job. Then Steve discovers his staff has walked out to the pub. Vrinda negotiates: they'll go back to work, but no compulsory overtime—and they'll slash features further.*
 
 A week later—mid-August now—it got worse.
 
-Eleanor stormed onto the sixth floor at precisely 2:22 in the afternoon. "Where the hell is your staff? The FPP area is deserted!"
+Eleanor appeared at Steve's office door at precisely 2:22 in the afternoon. She glanced at the two exchange staff he was meeting with, forced on a clearly false smile, and politely asked them to leave.
 
-A contractor had snitched. The permanent staff was at the pub. The Burns Unit—officially The Robbie Burns, named after Scotland's great poet, but nicknamed after the hospital next door.
+She closed the door. "Where the hell is your staff? I just walked past your FPP area and apart from a few contractors, the place is deserted."
+
+Steve said the staff was probably in meetings.
+
+"A contractor snitched. Your permanent staff is at the pub. You have a mutiny on your hands." She lowered her voice. "But that's not why I'm here. Hal is making an announcement this afternoon. It's embargoed until the press release, but it affects you and your team. You're not going to like it."
+
+Steve waited.
+
+"I have a message for you from Hal. It's not for anyone else's ears." She fixed him with a look. "Launch FPP on time. Or find a new job."
+
+She opened the door and stomped out, slamming it hard enough to rattle the glass wall.
+
+Steve sat for a moment, stunned. Then he made his way to the FPP work area. Eleanor was right—the lights were on, but none of the permanent staff were home. He tracked them down to The Burns Unit—officially The Robbie Burns, named after Scotland's great poet, but nicknamed after the hospital next door.
 
 Steve found about forty of his people sitting in the far corner. ABBA's "Dancing Queen" played over the sound system. Most looked like they were drinking freshly-squeezed lemon juice. Phil and Vrinda were there. So was Declan McGuiness, the employee rep.
 
 Steve met his friends by the dart board. It had three darts sticking out of the bullseye at unnatural angles, like someone had pushed them there rather than thrown them.
 
-Vrinda spoke quietly, which meant she was angry. "Gregor cancelled everyone's holidays—holidays we'd already rescheduled to suit the project's previous schedule. Then he told a few of us to pull up our socks and work more overtime. I already take work home. I have children. He can shove it."
+He found Vrinda and Phil. “What’s going on?”
+
+She spoke quietly, which meant she was angry. "Gregor cancelled everyone's holidays—holidays we'd already rescheduled to suit the project's previous schedule. Then he told a few of us to pull up our socks and work more overtime. I already take work home. I have children. He can shove it."
 
 Phil said, "Steve, we're not out to screw you."
 
@@ -414,11 +442,11 @@ Phil pulled the darts from the board and stepped back to take aim. Vrinda and St
 
 "It's the same pattern in every project," Phil said. "A desperate mad dash at the end that we—and our families—bear the brunt of." He threw his first dart; it hit the board, bounced off, and landed on the floor. As he crouched to pick it up, he said, "The bottom line is that none of us believe we'll make February 1st. And none of us believed we'd make the original date either."
 
-Steve took a gamble. He gestured to an empty booth and asked them to sit down. Phil walked up to the dart board and stuck his remaining dart firmly in the bullseye, then slid in after Vrinda.
+Steve took a gamble. He gestured to an empty booth and asked them to sit down. Phil walked up to the dart board and jabbed his remaining dart firmly in the bullseye, then slid in after Vrinda.
 
-Steve lowered his voice and told them—in confidence—that Hal had threatened his job.
+Steve lowered his voice and told them—in confidence—that Hal had threatened to fire him, if they didn’t ship. “His job is on the line. And now so is mine.”
 
-Vrinda winced. "That's not a threat. It's an ultimatum."
+Vrinda winced. "That’s not fair.”
 
 Her face hardened. "You need us to get back to work?"
 
@@ -426,11 +454,11 @@ She picked up her mug. "I'll make you a deal, Steve. I'll get this lot back to w
 
 "You honestly think there's more room to descope?"
 
-"There is always more room to descope. Always."
+"There is always more room to descope. Always." She stood up, and started herding her colleagues back to the office. 
 
-Within minutes, the team had drained their drinks and shuffled off to their desks. None made eye contact with Steve. Not even Vrinda.
+Within minutes, the team had drained their drinks and shuffled off to their desks. None made eye contact with Steve.
 
-Phil smirked. "How 'bout we get that pint after all?"
+Phil stayed behind.  He suddenly smirked. "How 'bout we get a pint - while we are here?"
 
 Steve shook his head.
 
@@ -442,16 +470,20 @@ Steve liked that about him.
 
 ---
 
-## December 1st
+## Hal Declares War
 
 > [!abstract] Chapter Summary
 > *Declan delivers a double blow: Chaste has moved their launch to February 1st—and Hal has issued a press release announcing Wyx-Fin will launch on December 1st. Hal has declared war on Chaste.*
 
-Outside in the sunlight, Declan caught up with Steve, sucking on an orange plastic cigar—a nicotine replacement device, apparently designed for extroverts.
+Outside in the sunlight, Steve spied Declan, the employee rep, sucking on an orange plastic cigar—a nicotine replacement device, apparently designed for extroverts.
 
-They were almost at the staff entrance when Declan rushed back, panting.
+Declan was in his own, waiting for Steve.
 
-"The lads just told me that Chaste announced they're launching February 1st."
+“Did you hear the news?”
+
+“What news?”
+
+"Chaste just announced they're launching February 1st."
 
 "No way."
 
@@ -459,7 +491,7 @@ They were almost at the staff entrance when Declan rushed back, panting.
 
 December 1st. That made no sense. No one would buy the product until April when the new tax year started. And Hal had just robbed them of two more months.
 
-There was only one explanation. Hal had declared war on Chaste.
+Hal had - in desperation - declared war on Chaste.
 
 And Steve and his team were the collateral damage.
 
