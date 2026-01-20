@@ -716,7 +716,7 @@ Craig thanked Cheryl and they made their way back to their seats out front.
 ## Requirements Are Really Forecasts
 
 > [!abstract] Chapter Summary
-> *Craig challenges Steve's assumptions: "requirements" are really just forecasts—predictions that may be wrong. He sketches a 2x2 grid showing most people think you choose between quality and speed—but there's a top-right corner.*
+> *Craig challenges Steve's assumptions: "requirements" are really just forecasts—predictions that may be wrong. They discuss why customers hoard features like packing peanuts. Then Craig sketches a 2x2 grid showing the top-right corner everyone thinks is impossible.*
 
 Craig picked up the 312-page FPP requirements folder and weighed it in his hands.
 
@@ -737,6 +737,40 @@ Craig smiled. "But it wasn't right, was it? How many times have you descoped req
 "Twice."
 
 Craig nodded. "Forecasts, by definition, will sometimes be right and will sometimes be wrong; otherwise we'd call them facts. Here's the lesson: You can blame yourselves when your forecasted requirements are wrong, or you can change the way you work so it matters less."
+
+Craig frowned. "And by cutting those features, won't that make it harder to sell FPP? Won't you lose customers?"
+
+"Hardly. We descoped the less important features. They look good on a product specification sheet, but very few customers were ever likely to want them. Catherine said early on that we'd definitely never offer the option to pay by check."
+
+"But why would she require that feature in the first place if it's not valuable?"
+
+"Scarcity," Steve said. "IT resource is scarce. I've got a four-year-long backlog of projects waiting to be started. Whenever a new project starts, the customers know they'll only ever get one shot at getting it right. It will be years until they get another wedge of IT resource to enhance it. So what do they do? They ask us to build every feature they can possibly think of—even if they don't think they'll ever use it."
+
+"So FPP's developers built a check payment mechanism on the off-chance that maybe one day they'd need it?"
+
+"Exactly. My eldest daughter does the same with roasted potatoes. She loves them and worries there won't be enough, so she piles them onto her plate, hoarding them, just in case. We've asked her to just take more later if she wants them."
+
+Craig half-laughed. "Ha! She now takes them in smaller batches, based on her actual demand?"
+
+Steve's jaw fell open. "Oh, yes. Smaller batches."
+
+"If it was so easy to stop your daughter's hoarding, why haven't you stopped your customers hoarding?"
+
+"Everyone knows it happens, but customers insist every single feature is top priority and therefore mandatory." He nodded toward the thick requirements folder. "And yet, in a crisis, it took less than four hours to strip those three hundred pages down to one hundred."
+
+Steve paused. "Hoarding is one cause of overproduction. Another is that customers know they'll be asked to chop features later, so they add stuff they don't really want in order to protect the features they *do* want."
+
+"Packing peanuts," Craig said.
+
+"Pardon?"
+
+"They're like those foam peanuts businesses fill packages with so the goods they're shipping don't move around in transit."
+
+Steve nodded slowly. "I suppose they are."
+
+"Now tell me—what's the equivalent of underproduction?"
+
+It only took Steve a moment. "Change requests. Underproduction happens when we don't build something our customer actually wants. Because we didn't forecast it. So they ask us to change it, or add it—and we reject most of those requests because they're too expensive and too late."
 
 Craig grabbed a napkin and sketched a simple grid—two axes, four boxes.
 
@@ -779,41 +813,21 @@ Steve checked his phone. He had a voicemail from Eleanor which more or less told
 ## Homework at the Kitchen Sink
 
 > [!abstract] Chapter Summary
-> *Steve does the dishes and thinks about Cheryl's lessons. He realizes his requirements document is really just a forecast—and they've already thrown away work they'd built, just like Cheryl threw away unsold food.*
+> *Steve does the dishes and thinks about Cheryl's lessons. He realizes the real question isn't what to build—it's how to get customers to stop hoarding and start prioritizing.*
 
-That evening, Steve did the dishes—he and his mum had a deal where she cooked and he cleaned. As he scrubbed away, his mind played back the day. The mutiny. The cafeteria. The very real possibility he wouldn't have a job in a few months.
+That evening, Steve did the dishes—he and his mum had a deal where she cooked and he cleaned. As he scrubbed away, his mind played back the day. The mutiny. The cafeteria. Craig's packing peanuts. The very real possibility he wouldn't have a job in a few months.
 
 Not your typical day at the office.
 
 He'd also been assigned homework—something that hadn't happened in nearly twenty years. Best get on with that.
 
-He thought about Cheryl's team. They'd wasted food because they cooked it too far in advance in big batches. They'd guessed wrong about what people wanted. Overproduction—wasted effort. Underproduction—lost sales.
-
-FPP had exactly the same problem, but on a much larger scale.
-
-His requirements document was really just a forecast. A prediction. A guess. And they'd already had to descope twice—throwing away work they'd already built, just like Cheryl had thrown away unsold food.
-
 Like most things in the kitchen, the dish rack was small, and it was soon full. Steve grabbed a fresh dish towel, quickly did the drying, then started washing again.
 
-He thought about the four payment methods in FPP. One was indisputably required—the standard UK bank transfer. No one would buy the product without it. That was like French fries in Cheryl's cafeteria.
-
-But what about the other three? Check payments, instant transfers, overseas telegraphic transfers. They'd all been descoped in the War Room. Were they really *requirements* if Catherine could push them aside when push came to shove?
-
-It didn't make sense to call them *optional requirements*. That was an oxymoron, wasn't it? He decided to call them *features* instead. Some features were required. Some were optional. And some—like the overseas transfer that might appeal to customers retiring to Spain—were really just forecasts. Guesses about what customers might want.
-
-Steve stopped and smiled to himself. He felt like he'd just realized what he'd subconsciously known all along.
-
-He gave the pan an angry scrub. It annoyed him that customers always claimed every feature was required, when logic said they weren't. Why did they hoard?
-
-The obvious answer: because they didn't trust that they'd ever get a phase two. If they didn't include everything now, and realized later they needed it, the only way to get it was to submit a change request and beg. Odds of approval? Low. So they threw everything in they could think of, claimed it was all top priority, and the project got bloated and late.
-
-Steve spoke aloud to the dishes.
-
-"There is a natural priority within our customers' requirements. They only say everything is top priority because they feel compelled to hoard."
+Craig was right about customers hoarding features like his daughter hoarded roasted potatoes. But knowing *why* they hoarded didn't tell him how to *stop* them hoarding.
 
 He grabbed another pot from the stove and dunked it in the soapy water. His mum had used it for tomorrow's porridge, and even though she'd soaked it, the inside was thick with stuck-on oats. Ick.
 
-"There must be a way to get our customers to prioritize. If I can do that, then I can break the vicious circle."
+"There must be a way to get our customers to prioritize," he said aloud to the dishes. "If I can do that, then I can break the vicious circle."
 
 But how? In the cafeteria, they prioritized by cooking more of what customers were actually buying. Steve couldn't just cook up a batch of features cheaply and make more if they sold well. Software didn't work that way.
 
@@ -1273,6 +1287,43 @@ It was exhausting. But it was working.
 
 ---
 
+## Calibrating Confidence
+
+> [!abstract] Chapter Summary
+> *Eleanor tests Steve's confidence with a simple question: would you bet money on making December 1st? Her escalating stakes reveal his true conviction—and earn a rare compliment.*
+
+Eleanor called Steve after Catherine shared the good news.
+
+"I need to calibrate your confidence level. Answer honestly. Will you take a one hundred pound bet against me that you will go live on December 1st?"
+
+Strange question, but Steve answered without thinking. "Of course."
+
+One hundred pounds was a nice dinner for two. Not that he had anyone to eat it with.
+
+"One thousand pounds?"
+
+He paused. That was a reasonable amount of money—a very nice new television. "Of course."
+
+"Ten thousand pounds?"
+
+Steve bit down on his lip. Serious money. If Fran were still alive, she would have been very grumpy if ten grand suddenly disappeared from their account. That was enough to buy a small but zippy new car.
+
+"Is this for real? Or are you asking hypothetically?"
+
+"Answer the bloody question."
+
+"I'd take that bet. And before you ask, I would happily bet one million pounds—but only hypothetically. I'd feel awkward taking your money."
+
+"That's what I wanted to hear. Good work." Then a pause. "Honestly, Steven? I didn't think you had it in you."
+
+"Gee, thanks, Eleanor."
+
+"Tell me the details."
+
+So he did. He talked. She listened. And for the first time in months, Steve felt like he might actually pull this off.
+
+---
+
 ## Finding Bugs Without Testing
 
 > [!abstract] Chapter Summary
@@ -1439,15 +1490,19 @@ Ron nodded.
 
 Ron laughed. "You inverted the pyramid, but you didn't invent it. You rediscovered it. And renamed it. It's just a shame you didn't think to do it at the start of FPP, rather than after you'd built all that code, but otherwise—you did well."
 
-He pulled a thick, dusty book from under his monitor. *Software Engineering Economics* by Barry Boehm, from 1981. He flipped to page forty-one and stabbed a heading: *Incremental Development*.
+He pulled a thick, dusty book from under his monitor. *Software Engineering Economics* by Barry Boehm, from 1981. He wiped the layer of dust from the cover and flipped to page forty-one, stabbing a heading: *Incremental Development*.
 
-Steve read: *Incremental development should develop software in increments of functional capability.*
+Steve read aloud: *Incremental development should develop software in increments of functional capability.*
+
+Ron flipped to the next page. Boehm described incremental development as a refinement of the waterfall model, whereby planning and design happened up front, but functionality was built and tested in increments. One advantage: functional increments were easier to test than intermediate components. Another: they provided a cheaper way to include user feedback earlier.
 
 "This has been known for decades?"
 
-Ron nodded. "It's been successfully used on projects costing over a hundred million dollars, way back in the seventies. As well as small projects."
+Ron nodded. "Incremental development has been successfully used on extremely large projects—one costing over a hundred million dollars, way back in the seventies—as well as small projects. This isn't experimental, Steve. It's been proven."
 
-Steve studied Ron's whiteboard, satisfied but annoyed with himself. "I should have thought to do this earlier."
+Steve stared at the book. All this time he'd felt like a guinea pig, hoping Craig's cafeteria principles would somehow apply to software. But it turned out the approach was older than he was.
+
+He studied Ron's whiteboard, satisfied but annoyed with himself. "I should have thought to do this earlier."
 
 Ron shook his head solemnly. "Wrong. You should have asked for help earlier."
 
@@ -1832,6 +1887,17 @@ If requirements were truly *required*, how could Catherine descope them twice? T
 
 ---
 
+### 💡 Packing Peanuts
+*Customers hoard features because they don't trust there will be a phase two.*
+
+Steve's daughter hoards roasted potatoes because she worries there won't be enough. Customers do the same with requirements—they pad their lists with features they don't really need, protecting the ones they do want. Craig calls these "packing peanuts": foam filler to protect what matters.
+
+**The lesson:** Customers hoard because they've been burned. Give them a guaranteed phase two and they'll stop padding their requirements.
+
+*First appears in: [[#Requirements Are Really Forecasts]]*
+
+---
+
 ### 💡 The 2x2 Grid (The Top-Right Corner)
 *You don't have to choose between quality and speed.*
 
@@ -1946,6 +2012,17 @@ Kryz, Brian, and Sharon—analyst, developer, tester—discover that sitting tog
 ## Cluster 4: The Deployment & Payoff
 
 *This is what happens when you get it right.*
+
+### 💡 Calibrating Confidence
+*A simple test to find out if you really believe it.*
+
+Eleanor asks Steve: would you bet £100 on making December 1st? £1,000? £10,000? His answers reveal his true confidence level—not the optimism he performs in meetings, but what he'd stake real money on.
+
+**The lesson:** When someone claims they're confident, ask them to bet on it. The answer tells you more than any status report.
+
+*First appears in: [[#Calibrating Confidence]]*
+
+---
 
 ### 💡 Walk Before You Run
 *Start small. Learn. Then scale.*
