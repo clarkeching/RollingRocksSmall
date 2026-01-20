@@ -208,7 +208,7 @@ Steve gave them their marching orders. War Room for twenty-four hours. Deliver a
 
 "Third, FPP is Wyx-Fin's number-one priority. If anything gets in your way, tell me and I'll move it. My job is to turn any and all organisational red lights green. 
 
-"And finally, I hate to say this, but quality is negotiable—to a point. This baby will be born premature. We’re just gonna have accept that, and keep moving.  We can fix things up later, after we are live."
+"And finally, I hate to say this, but quality is negotiable—to a point. This baby will be born premature. We're just gonna have to accept that, and keep moving. We can fix things up later, after we are live."
 
 He looked at Catherine. "Come February 1st, the product will contain a large number of known and unknown defects. You'll need to make the final call about whether we go live."
 
@@ -225,7 +225,7 @@ Her forehead furrowed. She wasn't happy. But what choice did she have?
 > [!abstract] Chapter Summary
 > *Steve comes home to his fairy-tale gatehouse and surprises his daughters. A moment of warmth amid the crisis—"Ahoy, me mateys!"*
 
-That evening, Steve came home to his fairy-tale home —a two-hundred-year-old stone gatehouse built into the defensive walls of a country estate, complete with vines creeping up the walls and round turrets, and rumours of ghosts. A couple of times each day, tourists would stop to take photographs. From the inside, it looked like any modern small house, though the doors were built for a time when people were considerably shorter.
+That evening, Steve came home to his fairy-tale home—a two-hundred-year-old stone gatehouse built into the defensive walls of a country estate, complete with vines creeping up the walls and round turrets, and rumours of ghosts. A couple of times each day, tourists would stop to take photographs. From the inside, it looked like any modern small house, though the doors were built for a time when people were considerably shorter.
 
 He snuck through the front door to surprise the kids. He heard Scooby-Doo playing in the den. Dropped his bag, slipped off his shoes, tiptoed down the hall.
 
@@ -270,7 +270,7 @@ Steve closed his eyes and took a calming breath. "I'm so sorry, Catherine."
 
 She shrugged. "It's not your fault, Steve. You didn't change the date. Circumstances did."
 
-Circumstances- the ultimate bad guy. 
+Circumstances—the ultimate bad guy. 
 
 Gregor cleared his throat. "The new plan came in at six months, including two weeks at the end for launch. I'll announce compulsory paid overtime on Monday and ask everyone to voluntarily cancel any holidays they have planned for the next six months."
 
@@ -287,7 +287,7 @@ Steve intervened. "Look. If you two kids can't play nicely together then I'll se
 > [!abstract] Chapter Summary
 > *Steve meets Ron McKnight, the grumpy old-timer who runs support and maintenance with a simple three-list system. Ron agrees to bump non-urgent work to make room for FPP bug fixes.*
 
-Steve met with Ron McKnight, his support and maintenance manager to give him a heads up. Ron was a grey-haired, Wyx-Fin old-timer, a curmudgeonly mix of gruff, grumpy, dour, and a few of the other lesser-known Disney dwarfs. He'd worked within Wyx-Fin's software department forever and still rolled up his sleeves and got his hands dirtywhenever they had particularly ugly technical problems.
+Steve met with Ron McKnight, his support and maintenance manager to give him a heads up. Ron was a grey-haired, Wyx-Fin old-timer, a curmudgeonly mix of gruff, grumpy, dour, and a few of the other lesser-known Disney dwarfs. He'd worked within Wyx-Fin's software department forever and still rolled up his sleeves and got his hands dirty whenever they had particularly ugly technical problems.
 
 Steve asked him to clear space in the schedule for FPP bug fixing.
 
@@ -371,9 +371,9 @@ Craig was late-fifties, tieless, and looked like a man who climbed mountains for
 
 He said that Norbert had briefed him on Steve’s situation, and he liked to start his chats with a quick behind-the-scenes tour of Cheryl’s cafeteria.
 
-Cheryl said, "Craig says you've got yourself in a bit of a mess and you need old Cheryl to show you how to sort it out?" she said.
+Cheryl said, "Craig says you've got yourself in a bit of a mess and you need old Cheryl to show you how to sort it out?"
 
-Steve felt his face redden, not sure what was going on. That wasn’t why he was here - he was just getting Norbert of his back.
+Steve felt his face redden, not sure what was going on. That wasn’t why he was here - he was just getting Norbert off his back.
 
 She said, "Can you take off your tie, please?"
 
@@ -477,7 +477,7 @@ Steve liked that about him.
 
 Outside in the sunlight, Steve spied Declan, the employee rep, sucking on an orange plastic cigar—a nicotine replacement device, apparently designed for extroverts.
 
-Declan was in his own, waiting for Steve.
+Declan was on his own, waiting for Steve.
 
 “Did you hear the news?”
 
@@ -491,7 +491,7 @@ Declan was in his own, waiting for Steve.
 
 December 1st. That made no sense. No one would buy the product until April when the new tax year started. And Hal had just robbed them of two more months.
 
-Hal had - in desperation - declared war on Chaste.
+Hal had—in desperation—declared war on Chaste.
 
 And Steve and his team were the collateral damage.
 
