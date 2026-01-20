@@ -866,6 +866,85 @@ Craig was right; small batches were key. But a key is useless without someone to
 
 ---
 
+## The Bottleneck
+
+> [!abstract] Chapter Summary
+> *Craig asks Steve a simple question: where is FPP's bottleneck? Steve can't finish The Goal, so Cheryl teaches him over bacon and eggs. Then Phil figures out that testing is about to become their constraint.*
+
+A few days later, Craig emailed Steve a question: **Where is FPP's bottleneck?**
+
+Steve didn't know what he meant, so Craig elaborated.
+
+**You've turned your software development into a factory—a test-scenario processing factory. You need to figure out where your bottleneck is because it determines how fast your factory runs. Read *The Goal* by Eli Goldratt. Ask Cheryl to show you her bottleneck.**
+
+Steve downloaded the book that evening. It was a full-length novel, not a textbook, so he couldn't just flip to the index and look up "bottleneck." His mum suggested he buy the audiobook and listen on double-speed. He fell asleep on the couch somewhere around chapter three.
+
+The next morning, he was in Cheryl's office at 6:17 a.m., hoping she could explain what he hadn't finished reading.
+
+She cooked him bacon and eggs while she did exactly that.
+
+"A bottleneck is the skinniest part of the bottle—the part that determines how fast stuff flows out. Imagine upending a big water cooler bottle. How long to empty it?"
+
+"A minute?"
+
+"And if the neck were skinnier?"
+
+"Longer."
+
+"And wider?"
+
+"Faster."
+
+She nodded. "Bottlenecks are only a tiny part of the system, but they determine how fast everything flows. The secret to life is focus—but that only works if you know *where* to focus. Your bottleneck."
+
+She told him about Mahjella in accounts payable, who had twelve people but was the only one authorized to do step four of their five-step process. She was the bottleneck—and she spent half her day on the phone apologizing to suppliers instead of processing invoices. Once she realized *she* was the constraint, it took her less than an hour to fix it: she locked herself away and focused only on step four, while her team made sure she was never starved of work or fed bad data.
+
+"Where was your bottleneck, Cheryl?"
+
+"China."
+
+"Where?"
+
+"Not *where*. *What*." She led him to the serving area. "We didn't have enough clean plates during peak hours. Plenty of food, plenty of staff, but no plates. And why? Because the dishwashers worked in big batches. We had plenty of plates—they were just all sitting dirty, waiting to be cleaned. We switched to smaller batches, kept the plates circulating, and the bottleneck went away."
+
+That afternoon, Steve met Phil on a hilltop overlooking the city.
+
+"Do you think the bottleneck concept applies to us?"
+
+Phil closed his eyes and thought. "I just ran a few thought experiments—imagining we added more people to each role. For three of them, the project didn't run any faster."
+
+"Which three?"
+
+"Analysts—most analysis is done. Customers—same reason. And managers." He smirked. "We ain't short of managers."
+
+"So it's developers or testers."
+
+Phil nodded. "In the first chunk, developers were definitely the bottleneck—we found dozens of defects but could only fix a fraction. But now we're fixing defects about as fast as we find them." He paused. "Actually, it's worse than I thought. The testers are about to get a lot busier."
+
+"More bugs?"
+
+"No. More *regression testing*." Every time they shipped a new chunk, testers had to verify they hadn't broken anything in the previous chunks. The overhead increased with every batch.
+
+Steve felt his stomach drop. "This sucks."
+
+Phil's eyes widened. "It doesn't suck—this is *awesome*. If we can squeeze a twenty percent improvement out of testing, our entire project runs twenty percent faster. We now know where to focus!"
+
+Steve thought about Cheryl's cafeteria. Testing and tasting—the words were almost identical. Cheryl had saved her kitchen by tasting her own food. Now Steve needed to save his project by focusing on the people who tasted *his* product: the testers.
+
+"So what do we do?"
+
+"We can't have developers running out ahead, building more than testers can check. That just creates piles of half-done work." Phil paused. "Would you let developers help the test team?"
+
+"Would *you*?"
+
+Phil shook his head. "I'd rather use their developer brains than their fingertips. Maybe they can automate things that make the testers more productive."
+
+They walked back to the office, agreeing on two immediate actions: cancel all non-essential meetings that consumed tester time, and change the build schedule to minimize *tester* downtime instead of developer downtime—even if it made developers less productive.
+
+The project could only move as fast as its slowest part.
+
+---
+
 # Part Three: The Inverted Pyramid
 
 ## The Heart Attack Survivor
@@ -1191,6 +1270,51 @@ Over the following weeks, the team fell into a rhythm. Build a chunk. Test it. F
 The messaging system gave them grief—Phil's concerns had been well-founded—but they worked through it, fix by fix, problem by problem. Every few days, *bam!* Another chunk shipped. Then a few days later—*bam!*—another one.
 
 It was exhausting. But it was working.
+
+---
+
+## Finding Bugs Without Testing
+
+> [!abstract] Chapter Summary
+> *Eleanor meets Kryz, Brian, and Sharon—an analyst, developer, and tester who sit together. They've discovered they can find bugs by talking through the spec before testing. Steve realizes: they're tasting the recipe before cooking the meal.*
+
+Eleanor insisted on meeting the *entire* team, not just the leadership. She charged across the floor and stopped in front of three desks: Krzysztof, a young Polish analyst; Brian, a quietly competent developer; and Sharon, one of the younger testers.
+
+After some small talk, Kryz asked if Eleanor wanted to see something *really* interesting.
+
+"We've figured out a very cheap, simple way to find bugs in the software without actually testing it."
+
+He pulled out a thick specification document covered in red circles—two or three per page.
+
+"Every red circle is a potential defect we found when Brian, Sharon and I *disagreed* about how we expected the software to behave."
+
+Eleanor frowned. "I don't understand."
+
+Kryz explained. "When we started delivering GETS software, Gregor made us move desks so we sat together as a small team—analyst, developer, tester. Previously, Sharon worked on the fourth floor with all the testers, and Brian and I sat at different ends of the sixth floor."
+
+"And?"
+
+"Sitting together enabled us to discover something. During the first chunk, Sharon found lots of defects. Normally she'd just log them into the tracking system for Brian to fix later. But because we were sitting next to each other, she tapped us both on the shoulder, and we had a chat."
+
+He leaned forward. "We realized we could have found many of these bugs *without* Sharon actually doing any testing. Now, before we test, we three talk about how we *expect* the software to behave. If we disagree, that means my requirements were probably ambiguous and Brian probably built something different than what I intended."
+
+"Give me an example."
+
+Kryz pointed to the first red circle. "This requirement says the system must pay a refund into the customer's bank account. Simple, right? But the customer might have more than one account. I *meant* the refund should go to the account the original payment came from. Brian assumed it should go to the customer's *default* account."
+
+Eleanor nodded slowly. "So you find defects by testing that you have a *shared understanding*—before you test the actual software."
+
+"Exactly. If we disagree about how the software should behave, we probably have a defect that needs to be fixed—in the *spec*, not the code."
+
+Eleanor turned to Steve, her charm cracking. "It's an awful shame you didn't have these conversations a long time ago, *before* the software was built."
+
+Kryz nodded emphatically. "This project could have prevented a lot of defects and avoided a lot of rework."
+
+Sharon added quietly, "We can't prevent *all* defects this way. But we catch a lot of the silly ones early—the ones caused by ambiguity."
+
+Steve made a mental note: roll this out to all the other teams.
+
+He smiled to himself. Cheryl had taught him that tasting your own cooking transformed quality. But Kryz, Brian, and Sharon had taken it one step further. They weren't just tasting the food—they were tasting the *recipe* before they even cooked it.
 
 ---
 
@@ -1769,6 +1893,17 @@ Catherine realizes she no longer has to *beg* for changes. She simply reprioriti
 
 ---
 
+### 💡 Manage the Bottleneck
+*The project moves at the speed of its slowest part.*
+
+Phil and Steve figure out that testing is about to become FPP's bottleneck. Every new chunk requires more regression testing, and the testers can't keep up. The solution? Developers stop building ahead and instead help make testers more productive—automating tedious tasks, eliminating unnecessary meetings, changing the build schedule to minimize *tester* downtime.
+
+**The lesson:** Find your bottleneck and protect it. Don't let non-bottlenecks build up piles of half-done work that the bottleneck can't process.
+
+*First appears in: [[#The Bottleneck]]*
+
+---
+
 ## Cluster 3: The Quality Standard
 
 *The structure only works if every slice is solid. You can't ship the tip of the pyramid if it's broken.*
@@ -1794,6 +1929,17 @@ Cheryl's cafeteria was about to be outsourced because the food was terrible. The
 **The lesson:** Test your own product. Don't wait for customers to tell you it's broken.
 
 *First appears in: [[#The Dog Food Problem]]*
+
+---
+
+### 💡 The Three Amigos
+*Taste the recipe before you cook the meal.*
+
+Kryz, Brian, and Sharon—analyst, developer, tester—discover that sitting together lets them find bugs *before* testing. They talk through how they expect the software to behave. When they disagree, it means the requirements were ambiguous—and Brian probably built something different than Kryz intended. They catch defects in the *spec* rather than in the *code*.
+
+**The lesson:** Analyst, developer, and tester must talk *before* work begins. Many bugs are just misunderstandings waiting to be discovered.
+
+*First appears in: [[#Finding Bugs Without Testing]]*
 
 ---
 
@@ -1840,9 +1986,9 @@ The lightbulbs aren't random insights—they're a system.
 
 **The Mindset Shift** comes first: accept that you can't predict perfectly, but you *can* have both quality and speed. The top-right corner exists.
 
-**The Structural Solution** shows you how: break work into small batches, structure them as an inverted pyramid (most important first), and give the customer the pen to reprioritize as they learn.
+**The Structural Solution** shows you how: break work into small batches, structure them as an inverted pyramid (most important first), give the customer the pen to reprioritize as they learn, and manage your bottleneck so work flows smoothly.
 
-**The Quality Standard** makes it all work: every slice must be Good Enough To Ship. Eat your own dog food to make sure it is.
+**The Quality Standard** makes it all work: every slice must be Good Enough To Ship. Eat your own dog food to make sure it is—and have your Three Amigos taste the recipe before you even start cooking.
 
 **The Deployment & Payoff** is what happens when you get it right: you walk before you run, you ship early, and the cash registers start ringing. Four million pounds of cash registers.
 
