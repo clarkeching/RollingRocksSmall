@@ -1,0 +1,41 @@
+# Obsidian settings (local to each machine)
+.obsidian/
+
+# Ulysses app files
+.Ulysses-*.plist
+
+# Working/analysis files
+Act_*_Summary.md
+Midpoint_Summary.md
+CHANGELOG.md
+Concept_Dependencies.md
+Story_Arc.md
+Story_Kanban.md
+Story_Overview.md
+MacPowerUsers_Post.md
+Pivot_*.md
+INDEX*.md
+
+# Reference/source materials
+Rolling_Rocks_Downhill_Complete.md
+Rolling Rocks Downhill.docx
+Rolling Rocks Downhill — Chapter-by-Chapter Outline.md
+Rolling_Rocks_Audio_Script.md
+Five Lightbulbs Framework - Rolling Rocks Downhill.md
+
+# Backup files
+*backup*.md
+*.bak
+
+# Directories with working materials
+Characters/
+Concepts/
+Full_Text/
+
+# Misc working files
+Condensed_Act_*.md
+*.base
+*.py
+
+# macOS
+.DS_Store
