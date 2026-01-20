@@ -367,13 +367,17 @@ She shook her head. "I never said he's an ogre. I said he's an arse, and I think
 
 A few days later, Steve finally caved to Norbert's nagging and met Craig Lally for brunch.
 
-Craig was late-fifties, tieless, and looked like a man who climbed mountains for pleasure and drove there in a twenty-year-old Volvo he maintained himself. He led Steve down to the cafeteria kitchen to meet Cheryl, a thin, short, middle-aged woman who'd worked there for twenty-eight years.
+Craig was late-fifties, tieless, and looked like a man who climbed mountains for pleasure and drove there in a twenty-year-old Volvo he maintained himself. 
 
-He said that Norbert had briefed him on Steve’s situation, and he liked to start his chats with a quick behind-the-scenes tour of Cheryl’s cafeteria.
+After shaking hands, Craig said that Norbert had briefed him on Steve's situation, and he was sure he could help, but before they got down to business, he said he liked to start his chats with a quick behind-the-scenes tour of the staff cafeteria.
+
+"The cafeteria?"
+
+Craig smiled then led Steve down to the kitchen to meet Cheryl, a thin, short, middle-aged woman who'd worked there for twenty-eight years.
 
 Cheryl said, "Craig says you've got yourself in a bit of a mess and you need old Cheryl to show you how to sort it out?"
 
-Steve felt his face redden, not sure what was going on. That wasn’t why he was here - he was just getting Norbert off his back.
+Steve felt his face redden, not sure if she was serious or not. 
 
 She said, "Can you take off your tie, please?"
 
@@ -381,11 +385,11 @@ She said, "Can you take off your tie, please?"
 
 "No, it's because you look like a dork."
 
-She said it in such a nice way that Steve did as he was told.
+She said it in such a nice but firm way that Steve did as he was told.
 
-Cheryl started explaining how they'd transformed the cafeteria—something about dog food and French fries. Steve nodded along, but his mind was elsewhere. Twenty-one new emails. Three missed calls. An impossible deadline. He wasn't sure what a cafeteria had to do with any of it.
+Cheryl started explaining how they'd transformed the cafeteria—something about dog food and French fries—though Steve wasn't really paying attention. He nodded along, as Cheryl and Craig kept yabbering on, but his mind was elsewhere. He glanced at his phone several times. He had twelve new emails on the first check, twenty-three by the third, and one missed call from an unknown number. Plus, of course, he had an impossible deadline weighing heavily on his shoulders. He had no idea what to do about that. He had no idea what a cafeteria had to do with any of it.
 
-Cheryl was mid-sentence when Steve's phone buzzed. He glanced at the screen. Mum.
+Cheryl was mid-sentence when Steve's phone buzzed again. He glanced at the screen. Mum.
 
 "Sorry, I need to take this." He stepped away. "Hi Mum. Yes. No. Yes, that's fine. No, I'm in a meeting. Yes. Okay. Okay. Look, I really have to—yes. Okay. Bye."
 
@@ -412,9 +416,13 @@ Eleanor appeared at Steve's office door at precisely 2:22 in the afternoon. She 
 
 She closed the door. "Where the hell is your staff? I just walked past your FPP area and apart from a few contractors, the place is deserted."
 
-Steve said the staff was probably in meetings.
+Steve said his team was probably in meetings.
 
-"A contractor snitched. Your permanent staff is at the pub. You have a mutiny on your hands." She lowered her voice. "But that's not why I'm here. Hal is making an announcement this afternoon. It's embargoed until the press release, but it affects you and your team. You're not going to like it."
+"A contractor snitched. Your permanent staff are all at the pub. You have a mutiny on your hands." 
+
+She lowered her voice. 
+
+"But that's not why I'm here. Hal is making an announcement this afternoon. It's embargoed until the press release, but it affects you and your team. You're not going to like it."
 
 Steve waited.
 
@@ -422,21 +430,21 @@ Steve waited.
 
 She opened the door and stomped out, slamming it hard enough to rattle the glass wall.
 
-Steve sat for a moment, stunned. Then he made his way to the FPP work area. Eleanor was right—the lights were on, but none of the permanent staff were home. He tracked them down to The Burns Unit—officially The Robbie Burns, named after Scotland's great poet, but nicknamed after the hospital next door.
+Steve sat for a moment, stunned. Then he made his way out to the FPP work area. Eleanor was right—the lights were on, but no one (apart from the two contractors) was home. He tracked his team down in *The Burns Unit*—officially *The Robbie Burns*, named after Scotland's great poet, but nicknamed after the hospital next door.
 
 Steve found about forty of his people sitting in the far corner. ABBA's "Dancing Queen" played over the sound system. Most looked like they were drinking freshly-squeezed lemon juice. Phil and Vrinda were there. So was Declan McGuiness, the employee rep.
 
-Steve met his friends by the dart board. It had three darts sticking out of the bullseye at unnatural angles, like someone had pushed them there rather than thrown them.
+Steve went to his two old friends, Vrinda and Phil, standing by the dart board. It had three darts sticking out of the bullseye at unnatural angles, like someone had pushed them there rather than thrown them.
 
-He found Vrinda and Phil. “What’s going on?”
+"Um," he said. “What’s going on?”
 
-She spoke quietly, which meant she was angry. "Gregor cancelled everyone's holidays—holidays we'd already rescheduled to suit the project's previous schedule. Then he told a few of us to pull up our socks and work more overtime. I already take work home. I have children. He can shove it."
+Vrinda spoke quietly, which meant she was angry. "This morning, just before lunch, Gregor cancelled everyone's holidays—holidays we'd already rescheduled to suit the project's previous schedule. Then he told a few of us to pull up our socks and work more overtime. I already take work home. I have children. He can shove it."
 
-Phil said, "Steve, we're not out to screw you."
+Phil stepped in. "Steve, we're not out to screw you."
 
-"I know that. But if not me, then who are you trying to screw?"
+Steve looked at him blankly. "I know that. But if not me, then who are you trying to screw?"
 
-They said nothing. They all knew Gregor was their bad guy. But didn't they realize that by screwing him, they were screwing Steve?
+They said nothing. They all knew Gregor was their bad guy. But didn't they realize that by screwing with him, they were also screwing Steve over?
 
 Phil pulled the darts from the board and stepped back to take aim. Vrinda and Steve quickly moved out of his way.
 
@@ -477,23 +485,29 @@ Steve liked that about him.
 
 Outside in the sunlight, Steve spied Declan, the employee rep, sucking on an orange plastic cigar—a nicotine replacement device, apparently designed for extroverts.
 
-Declan was on his own, waiting for Steve.
+Declan was on his own, hanging around, clearly waiting for Steve.
 
-“Did you hear the news?”
+"Did you hear the news?" he said.
 
 “What news?”
 
 "Chaste just announced they're launching February 1st."
 
-"No way."
+"Oh?"
 
 "And worse—Hal just issued a press release announcing we're launching December 1st."
 
-December 1st. That made no sense. No one would buy the product until April when the new tax year started. And Hal had just robbed them of two more months.
+December 1st. 
 
-Hal had—in desperation—declared war on Chaste.
+That made no sense. 
 
-And Steve and his team were the collateral damage.
+No one would buy the product until April when the new tax year started. 
+
+**Hal had just robbed them of two more months.**
+
+Hal had declared war on Chaste.
+
+And Steve and his team were collateral damage.
 
 Steve decided, there and then, to go upstairs and explain to Hal precisely what an arsehole he was.
 
