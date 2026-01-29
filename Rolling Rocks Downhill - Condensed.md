@@ -138,13 +138,17 @@ Gravity sucks.
 > [!abstract] Chapter Summary
 > *Steve's Group CIO boss Norbert nags him—again—about meeting the local Quality guy, Craig Lally. Steve avoids it, thinking the last thing he needs is manufacturing advice from people who got outsourced.*
 
-Before the FPP management meeting, Steve called his other boss—his dotted-line boss—Norbert Billings, the Wyxcomb Group CIO, based in Sweden. Norbert was tall, blonde and Dutch, and had worked within the group for decades. Steve gave him a quick update on the FPP situation. Norbert had already heard the news. He offered no direction or advice, only a request that Steve keep him up to date.
+Before the FPP management meeting, Steve called his other boss—his dotted-line boss—Norbert Billings, the Wyxcomb Group CIO, based in Sweden. Norbert was tall, blonde and Dutch, and had worked within the group for decades. Steve gave him a quick update on the FPP situation. Norbert had already heard the news. 
 
-Then Norbert blindsided him. "Now, tell me, did you ever contact Craig Lally?"
+He said, "This kind of thing happens all the time. It's business as usual." 
 
-Craig Lally was the local Quality guy—one of those process improvement people Norbert had been pushing on all of the subsidiaries. Months earlier, Norbert had asked Steve and his counterparts to meet with their local Quality teams to explore how they could improve their development practices.
+He offered no direction or advice, only a request that Steve keep him up to date.
 
-Steve knew someone in Wyxcomb Health had contacted this Craig Lally fellow, and they'd ended up outsourcing their entire development team. He did not want to be outsourced.
+Norbert then changed the subject. "Now, tell me, did you ever contact Craig Lally?"
+
+Craig Lally was the local Quality guy—one of those process improvement people HQ had been pushing on all of the subsidiaries. Months earlier, Norbert had asked Steve and his counterparts to meet with their local Quality teams to explore how they could improve their development practices.
+
+Steve wasn't keen on the idea. He knew someone in Wyxcomb Health had contacted this Craig Lally fellow, and they'd ended up outsourcing their entire development team. He did not want to be outsourced.
 
 "No. Not yet. We've been particularly busy lately."
 
@@ -365,7 +369,7 @@ She shook her head. "I never said he's an ogre. I said he's an arse, and I think
 > [!abstract] Chapter Summary
 > *Steve finally meets Craig Lally for brunch. Craig takes him to meet Cheryl in the cafeteria kitchen, but Steve is distracted, checking his phone. Cheryl notices—"Looks like we've got another skeptic here."*
 
-A few days later, Steve finally caved to Norbert's nagging and met Craig Lally for brunch.
+A few days later, after another not-so-gentle prompt from Norbert, Steve finally met Craig Lally for brunch in the staff cafeteria.
 
 Craig was late-fifties, tieless, and looked like a man who climbed mountains for pleasure and drove there in a twenty-year-old Volvo he maintained himself. 
 
@@ -377,7 +381,7 @@ Craig smiled then led Steve down to the kitchen to meet Cheryl, a thin, short, m
 
 Cheryl said, "Craig says you've got yourself in a bit of a mess and you need old Cheryl to show you how to sort it out?"
 
-Steve felt his face redden, not sure if she was serious or not. 
+Steve felt his face redden, not sure what she knew or whether she was serious or not. 
 
 She said, "Can you take off your tie, please?"
 
@@ -387,21 +391,27 @@ She said, "Can you take off your tie, please?"
 
 She said it in such a nice but firm way that Steve did as he was told.
 
-Cheryl started explaining how they'd transformed the cafeteria—something about dog food and French fries—though Steve wasn't really paying attention. He nodded along, as Cheryl and Craig kept yabbering on, but his mind was elsewhere. He glanced at his phone several times. He had twelve new emails on the first check, twenty-three by the third, and one missed call from an unknown number. Plus, of course, he had an impossible deadline weighing heavily on his shoulders. He had no idea what to do about that. He had no idea what a cafeteria had to do with any of it.
+Cheryl started explaining how they'd transformed the cafeteria—something about dog food and French fries—though Steve wasn't really paying attention. He nodded along, as Cheryl and Craig kept yabbering on, but his mind kept drifting elsewhere. He glanced at his phone several times. He had twelve new emails on the first check, twenty-three by the third, and one missed call from an unknown number. Plus, of course, he had an impossible deadline weighing heavily on his shoulders. He had no idea what to do about that. 
 
-Cheryl was mid-sentence when Steve's phone buzzed again. He glanced at the screen. Mum.
+Norbert had described the FPP shenanigans as *business as usual*, and in a way it was because project dates are always changing, and projects always run late, but in another way it wasn't. Hal and Eleanor were taking this one very seriously. And so was Steve. 
+
+He had no idea what a cafeteria had to do with any of it.
+
+Cheryl was mid-sentence when Steve's phone buzzed again. 
+
+He glanced at the screen: Mum.
 
 "Sorry, I need to take this." He stepped away. "Hi Mum. Yes. No. Yes, that's fine. No, I'm in a meeting. Yes. Okay. Okay. Look, I really have to—yes. Okay. Bye."
 
 He turned back to find Cheryl watching him, arms folded. Her smile had dropped into a deep frown.
 
-"I'm so sorry," Steve said. "Family emergency. I have to go."
+"I'm so sorry," Steve said, waving his hands in the air. "Family emergency. I have to go."
 
-Cheryl made a face, as if she'd smelled something bad. "We'll see," she said, and walked off without saying goodbye.
+Cheryl made a face, not whether she believed him or not.  
 
 Craig sighed. "Let's talk when you're ready to listen."
 
-Steve left, feeling slightly guilty but mostly relieved. There was no emergency—just a question about what the kids wanted for tea. But the last thing he needed was manufacturing wisdom from a cook and an earnest man who liked outsourcing people.
+Steve left, feeling slightly guilty but mostly relieved. There was no emergency—just a question about what the kids wanted for tea. 
 
 ---
 
@@ -563,19 +573,23 @@ Norbert answered immediately and without saying hello: "Can you deliver FPP on D
 
 He may as well have slapped Steve across the face. Norbert wasn't just his boss—he was his mentor and protector. After Fran died, it was Norbert who pulled all the bureaucratic strings and corporate levers necessary to transfer Steve from Glasgow to Watt's Bridge, nearer his home. Eleanor hadn't wanted him—she wanted someone with smaller ambitions—but Norbert had insisted. In Wyxcomb, he said, we looked after our own.
 
-His words hurt. Norbert knew the job market in Watt's Bridge for people like Steve was limited. He knew Steve's family situation. He knew that relocating his kids and his mother was damned near out of the question.
+His words hurt. Norbert knew the job market in Watt's Bridge for people like Steve was limited. He knew Steve's family situation. He knew Steve would never relocate his kids and his mother.
 
 Steve let his breath out. "I need your help, Norbert."
 
 He said nothing.
 
-"What should I do?"
+I said, "What should I do?"
 
-"Talk to your local Quality guy, Lally. Tell me how that went."
+"Did you talk to your Quality guy, Lally."
+
+"Briefly."
+
+"Tell me how that went."
 
 Steve chose his words carefully. "He couldn't help me with FPP. That was, and still is, my priority. He wanted to help me prevent my next FPP."
 
-"When I pressed him, he said he was sure he could help you, but that you'd have to ask for help if you wanted it."
+Norbert said, "He called me after your chat. He that he can't help everyone, and that is especially true if they don't want help.  He said that if you ever do decide you want help, all you have to do is ask."
 
 "Oh."
 
@@ -583,7 +597,7 @@ Steve chose his words carefully. "He couldn't help me with FPP. That was, and st
 
 "But why him?"
 
-"Because frankly, I don't know anyone else who wouldn't do precisely what you've already done. I am clutching at straws here. Maybe he can see things the rest of us can't."
+"Because frankly, I don't know anyone else who wouldn't do exactly what you've already done. I am clutching at straws here. Maybe, as an outsider, he can see things with fresh eyes - see things the rest of us can't."
 
 "But what if he can't help me?"
 
